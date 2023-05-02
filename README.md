@@ -8,10 +8,10 @@ I am a student from China. I like to study open source projects and all interest
 * ❤️I like to eat 🍉, 🐓,play 🏓, and sleep on 🛌 and 📺 beside.<br>
 * 💬You are free to ask me anything about here.<br>
 You can find out how to contact me in the sidebar. You can follow me to find something more interesting.<br>
-If you like my project, you can buy me one 🍉/🍔/🍟/🍦/🥤/🍰. Or leave me a message at <a href="https://tyblog.github.io/">Link Me</a><br>
+If you like my project, you can buy me one 🍉/🍔/🍟/🍦/🥤/🍰. Or leave me a message at <a href="https://miaopasixx.github.io/">Link Me</a><br>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TYblog&exclude_repo=github-readme-stats,anuraghazra.github.io" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TYblog" /> <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaopasixx&exclude_repo=github-readme-stats,miaopasixx.github.io" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miaopasixx" /> <br>
   
 
 
@@ -29,4 +29,4 @@ If you like my project, you can buy me one 🍉/🍔/🍟/🍦/🥤/🍰. Or lea
 
 你可以在侧边栏找到如何联系我。你可以跟着我找些更有趣的东西。<br>
 
-如果你喜欢我的项目，你可以给我买一个🍉/🍔/🍟/🍦/🥤/🍰。 或者<a href="https://tyblog.github.io/">Link Me</a>给我留言。 <br>
+如果你喜欢我的项目，你可以给我买一个🍉/🍔/🍟/🍦/🥤/🍰。 或者<a href="https://miaopasixx.github.io/">Link Me</a>给我留言。 <br>
