@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miaopasixx/miaopasixx/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miaopasixx/miaopasixx/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/miaopasixx/miaopasixx/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### Hello, this is Mr.miaopasi. 👋 <br>
 I am a student from China. I like to study open source projects and all interesting things, and want to try to do some related things.<br>
@@ -29,8 +34,3 @@ If you like my project, you can buy me one 🍉/🍔/🍟/🍦/🥤/🍰. Or lea
 
 如果你喜欢我的项目，你可以给我买一个🍉/🍔/🍟/🍦/🥤/🍰。 或者<a href="https://miaopasixx.github.io/">Link Me</a>给我留言。 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miaopasixx/miaopasixx/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miaopasixx/miaopasixx/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/miaopasixx/miaopasixx/output/github-contribution-grid-snake.svg">
-</picture>
