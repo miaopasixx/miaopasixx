@@ -13,8 +13,6 @@ If you like my project, you can buy me one 🍉/🍔/🍟/🍦/🥤/🍰. Or lea
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaopasixx&exclude_repo=github-readme-stats,miaopasixx.github.io" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=miaopasixx" /> <br>
   
-
-
 以下中文：
 
 ### 你好，我是喵帕斯先生。👋<br>
@@ -30,3 +28,9 @@ If you like my project, you can buy me one 🍉/🍔/🍟/🍦/🥤/🍰. Or lea
 你可以在侧边栏找到如何联系我。你可以跟着我找些更有趣的东西。<br>
 
 如果你喜欢我的项目，你可以给我买一个🍉/🍔/🍟/🍦/🥤/🍰。 或者<a href="https://miaopasixx.github.io/">Link Me</a>给我留言。 <br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
+</picture>
